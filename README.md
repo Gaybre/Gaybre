@@ -1,4 +1,9 @@
+<div align="center">
 ### Hi there 👋
+<!-- <h4>These are some Technologies with I have worked</h4> -->
+
+<img height="50" src="https://media-exp1.licdn.com/dms/image/C4D03AQE0vEAEWJgABA/profile-displayphoto-shrink_200_200/0?e=1601510400&v=beta&t=LTjsw581g3Ppckvg6NuGffLxKvOuRRUP8nqRpX4rltY">
+</div>
 
 <!--
 **Gaybre/Gaybre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
