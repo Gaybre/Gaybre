@@ -1,8 +1,22 @@
 <div align="center">
-### Hi there 👋
-<!-- <h4>These are some Technologies with I have worked</h4> -->
+<img src="https://github.com/Gaybre/Gaybre/blob/master/img/portada2.png?raw=true" alt="portada-frontend-dev">
 
-<img height="50" src="https://media-exp1.licdn.com/dms/image/C4D03AQE0vEAEWJgABA/profile-displayphoto-shrink_200_200/0?e=1601510400&v=beta&t=LTjsw581g3Ppckvg6NuGffLxKvOuRRUP8nqRpX4rltY">
+## These are some Technologies with I have worked.
+
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/notion.png?raw=true" alt="notion-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/figma.png?raw=true" alt="figma-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/html.png?raw=true" alt="html5-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/javascript.png?raw=true" alt="javascript-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/css.png?raw=true" alt="css-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/sass.png?raw=true" alt="sass-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/react.png?raw=true" alt="react-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/reactRouter.png?raw=true" alt="reactRouter-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/redux.png?raw=true" alt="redux-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/graphql.png?raw=true" alt="graphql-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/apollo.png?raw=true" alt="apollo-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/terminal.png?raw=true" alt="terminal-icon">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/git.png?raw=true" alt="git-icon">
+
 </div>
 
 <!--
