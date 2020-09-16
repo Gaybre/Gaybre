@@ -12,9 +12,9 @@
 <img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/redux.png?raw=true" alt="redux-icon">
 <img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/graphql.png?raw=true" alt="graphql-icon">
 <img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/apollo.png?raw=true" alt="apollo-icon">
-<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/apollo.png?raw=true" alt="babel">
-<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/apollo.png?raw=true" alt="webpack">
-<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/apollo.png?raw=true" alt="jest">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/babel.png?raw=true" alt="babel">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/webpack.png?raw=true" alt="webpack">
+<img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/jest.png?raw=true" alt="jest">
 <img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/terminal.png?raw=true" alt="terminal-icon">
 <img height="30" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/git.png?raw=true" alt="git-icon">
 
@@ -23,14 +23,20 @@
 ## Recent collaborative projects that I have participated.
 
 <div align="center">
-  <a href="https://github.com/Gaybre/ourclothe">
-    <img height="60" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/ourclothe.png?raw=true" alt="notion-icon">
-    ourclothe
-  </a>
-  <a href="https://github.com/T-rexpace/T-rexpace_Proyect">
-    <img height="60" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/t-rexpace.png?raw=true" alt="figma-icon">
-    T-rexpace
-  </a>
+  <div width="120">
+    <a href="https://github.com/Gaybre/ourclothe">
+      <img height="60" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/ourclothe.png?raw=true" alt="notion-icon">
+      <br />
+      ourclothe
+    </a>
+  </div>
+  <div width="120">
+    <a href="https://github.com/T-rexpace/T-rexpace_Proyect">
+      <img height="60" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/t-rexpace.png?raw=true" alt="figma-icon">
+      <br />
+      T-rexpace
+    </a>
+  </div>
 <div>
 
 </div>
