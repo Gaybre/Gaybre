@@ -23,16 +23,20 @@
 ## Recent collaborative projects that I have participated.
 
 <div>
-  <a width="120" href="https://github.com/Gaybre/ourclothe">
-    <img height="80" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/ourclothe.png?raw=true" alt="notion-icon">
-    <br />
-    ourclothe
-  </a>
-  <a width="120" href="https://github.com/T-rexpace/T-rexpace_Proyect">
-    <img height="80" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/t-rexpace.png?raw=true" alt="figma-icon">
-    <br />
-    T-rexpace
-  </a>
+  <div display="inline">
+    <a href="https://github.com/Gaybre/ourclothe">
+      <img height="80" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/ourclothe.png?raw=true" alt="notion-icon">
+      <br />
+      ourclothe
+    </a>
+  </div>
+  <div display="inline">
+    <a href="https://github.com/T-rexpace/T-rexpace_Proyect">
+      <img height="80" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/t-rexpace.png?raw=true" alt="figma-icon">
+      <br />
+      T-rexpace
+    </a>
+  </div>
 </div>
 
 </div>
