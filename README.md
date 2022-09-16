@@ -1,57 +1,15 @@
-<div align="center">
-<img src="https://github.com/Gaybre/Gaybre/blob/master/img/portada2.png?raw=true" alt="portada-frontend-dev">
+<h1 align="center">Hi 👋, I´m Juan Gaybre</h1>
+<h3 align="center">I eat 🌮´s and do some frontend development. I´m from México btw...</h3>
+<p />
+<h3 align="left">Connect with me:<a href="https://twitter.com/juangaybre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juangaybre" height="30" width="40" style="margin-left: 20px" /></a><a href="https://linkedin.com/in/juangaybre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juangaybre" height="30" width="40" style="margin-left: 20px" /></a>
+</h3>
 
-## Technologies with I have recently worked.
+<p />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-left: 10px"/>  </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" style="margin-left: 10px"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"  style="margin-left: 10px"/> </a> </p>
 
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/html.png?raw=true" alt="html5-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/javascript.png?raw=true" alt="javascript-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/css.png?raw=true" alt="css-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/sass.png?raw=true" alt="sass-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/styled-components.png?raw=true" alt="styled-components-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/react.png?raw=true" alt="react-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/reactRouter.png?raw=true" alt="reactRouter-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/redux.png?raw=true" alt="redux-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/apollo.png?raw=true" alt="apollo-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/babel.png?raw=true" alt="babel">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/webpack.png?raw=true" alt="webpack">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/jest.png?raw=true" alt="jest">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/terminal.png?raw=true" alt="terminal-icon">
-<img height="35" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons/git.png?raw=true" alt="git-icon">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaybre&show_icons=true&locale=en&layout=compact" alt="gaybre" /></p>
 
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaybre&show_icons=true&locale=en" alt="gaybre" /></p>
 
-## Recent collaborative projects that I have participated.
-
-<div>
-  <div display="inline">
-    <a href="https://github.com/Gaybre/ourclothe">
-      <img height="80" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/ourclothe.png?raw=true" alt="notion-icon">
-      <br />
-      ourclothe
-    </a>
-  </div>
-  <div display="inline">
-    <a href="https://github.com/T-rexpace/T-rexpace_Proyect">
-      <img height="80" src="https://github.com/Gaybre/Gaybre/blob/master/img/icons-projects/t-rexpace.png?raw=true" alt="figma-icon">
-      <br />
-      T-rexpace
-    </a>
-  </div>
-</div>
-
-</div>
-
-<!--
-**Gaybre/Gaybre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaybre&" alt="gaybre" /></p>
